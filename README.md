@@ -1,4 +1,4 @@
-# 🏥 ArogyaLink (आरोग्य लिंक)
+# 🏥 ArogyaSetu 
 > **AI-Powered Multimodal Clinical Triage, Prescription OCR Digitizer & ABDM Decision-Support Ecosystem**
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
